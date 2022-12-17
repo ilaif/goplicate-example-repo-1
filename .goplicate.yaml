@@ -8,5 +8,5 @@ targets:
       repository: https://github.com/ilaif/goplicate-example-shared-configs
       path: .eslintrc.js
     params:
-      - repository: https://github.com/ilaif/goplicate
+      - repository: https://github.com/ilaif/goplicate-example-shared-configs
         path: params.yaml
